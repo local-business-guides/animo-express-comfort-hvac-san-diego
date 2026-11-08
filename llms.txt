@@ -25,6 +25,9 @@
 - [HVAC Contractor near Me in San Diego](https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/hvac-contractor-near-me/): Find an HVAC Contractor near Me in San Diego for residential or commercial heating and cooling guidance. Call Animo Express Comfort HVAC today.
 - [Best HVAC Contractor near Me in San Diego](https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/best-hvac-contractor-near-me/): Compare the Best HVAC Contractor near Me in San Diego by asking clear questions about your system and service. Call Animo Express Comfort HVAC.
 
+## Newsroom
+- [Animo Express Comfort HVAC Shares San Diego HVAC Guide and Audio](https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/news/2026-11-08-animo-express-comfort-hvac-shares-san-diego-hvac/): Animo Express Comfort HVAC published a guide this week, with a YouTube video, podcast episode and SoundCloud audio version. (2026-11-08)
+
 ## Pages
 - [HVAC Contractor in San Diego, California](https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/): Get residential and commercial heating and cooling support from Animo Express Comfort HVAC in San Diego. Call +1619-975-0200.
 - [About Animo Express Comfort HVAC](https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/about/): About Animo Express Comfort HVAC, San Diego.
@@ -32,4 +35,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/news/rss.xml)
 - [Main resource site](https://animo-express-comfort-hvac.localwebsites.chatgpt.site)

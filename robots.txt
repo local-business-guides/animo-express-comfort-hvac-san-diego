@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
 Sitemap: https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/sitemap.xml
+Sitemap: https://local-business-guides.github.io/animo-express-comfort-hvac-san-diego/news-sitemap.xml
